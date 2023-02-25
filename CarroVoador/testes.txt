@@ -1,0 +1,13 @@
+Análise - requisitos.txt
+
+Design - design.txt
+
+Codificação - desenv.txt
+Será desenvolvido em Python.
+
+Teste - testes.txt
+Realizar teste unitario para cada requisitos.
+
+Operação - operacao.txt
+
+11982105882 whatsapp ADM sala
